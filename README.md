@@ -16,25 +16,37 @@
     </div>
 </div>
 
-## About Me
+<h2 align="center">About Me</h2>
+<div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
+    <div align="center" style="font-weight: bold">
+      <p>Hello! I'm Wendy Nam, also known as Seo-A-Nam. <br>I'm a passionate programmer with a deep skill set in Python, crafting intricate systems, especially within the realm of Visual Novels and JRPGs, including RPG elements in Ren'Py. With over 4 years of programming experience, I'm dedicated to bringing creative visions to life.</p>
+    </div>
+</div>
 
-Hello! I'm Wendy Nam, also known as Seo-A-Nam. I'm a passionate programmer with a deep skill set in Python, crafting intricate systems, especially within the realm of Visual Novels and JRPGs, including RPG elements in Ren'Py. With over 4 years of programming experience, I'm dedicated to bringing creative visions to life.
+<h2 align="center">📌 Skills</h2>
+<div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
+    <div align="center" style="font-weight: bold">
+      <p>Python / C / C++ / Golang</p>
+      <p>Shell scripting</p>
+      <p>System Architecture Design</p>
+      <p>Optimization / Code Refactoring</p>
+      <p>Open-source Contribution</p>
+      <p>Crafting Dev Tools</p>
+    </div>
+</div>
 
-## 📌 Skills
+<h2 align="center">🚀 Contact</h2>
+<div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
+    <div align="center" style="font-weight: bold">
+        <a href="https://discord.com/users/SAN#0799"><button><img src="https://img.shields.io/badge/Discord-SAN%230799-blue?logo=discord&logoColor=white"></button></a>
+        <a href="https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US"><button><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></button></a>
+        <a href="mailto:42.4.senam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white"/></a>
+    </div>
+</div>
 
-- Python / C/C++ / Golang
-- Shell scripting
-- System Architecture Design
-- Optimization / Code Refactoring
-- Open-source Contribution
-- Crafting Dev Tools
+<h2 align="center">💬 Commissioning Work</h2>
+<div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
+    <p>I am open to commissioning work. If you have a project in mind, please feel free to reach out to me via Discord or email.</p>
+</div>
 
-## 🚀 Contact
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US)
-- [![Discord](https://img.shields.io/badge/Discord-SAN%230799-blue?logo=discord&logoColor=white)](https://discordapp.com/users/SAN#0799)
-- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white)](mailto:42.4.senam@gmail.com)
-
-## 💬 Commissioning Work
-
-I am open to commissioning work. If you have a project in mind, please feel free to reach out to me via Discord or email.
