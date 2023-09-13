@@ -19,7 +19,7 @@
 <h2 align="center">About Me</h2>
 <div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
     <div align="center" style="font-weight: bold">
-      <p>Hello! I'm Wendy Nam, also known as Seo-A-Nam. <br>I'm a passionate programmer with a deep skill set in Python, crafting intricate systems, especially within the realm of Visual Novels and JRPGs, including RPG elements in Ren'Py. With over 4 years of programming experience, I'm dedicated to bringing creative visions to life.</p>
+      <p>Hello! I'm Wendy Nam, also known as Seo-A-Nam. <br>I'm a passionate programmer with a deep skill set in Python, crafting intricate systems, <br>especially within the realm of Visual Novels and JRPGs, including RPG elements in Ren'Py. <br>With over 4 years of programming experience, I'm dedicated to bringing creative visions to life.</p>
     </div>
 </div>
 
@@ -46,7 +46,7 @@
 
 <h2 align="center">💬 Commissioning Work</h2>
 <div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
-    <p>I am open to commissioning work. If you have a project in mind, please feel free to reach out to me via Discord or email.</p>
+    <p>I am open to commissioning work. <br>If you have a project in mind, please feel free to reach out to me via Discord or email.</p>
 </div>
 
 
