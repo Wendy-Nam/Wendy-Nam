@@ -23,7 +23,7 @@
     </div>
 </div>
 
-<h2 align="center">📌 Skills</h2>
+<h2 align="center">Skills & Interest</h2>
 <div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
     <div align="center" style="font-weight: bold">
       <p>Python / C / C++ / Golang</p>
@@ -35,7 +35,7 @@
     </div>
 </div>
 
-<h2 align="center">🚀 Contact</h2>
+<h2 align="center">Contact</h2>
 <div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
     <div align="center" style="font-weight: bold">
         <a href="https://discord.com/users/SAN#0799"><button><img src="https://img.shields.io/badge/Discord-SAN%230799-blue?logo=discord&logoColor=white"></button></a>
@@ -44,7 +44,7 @@
     </div>
 </div>
 
-<h2 align="center">💬 Commissioning Work</h2>
+<h2 align="center">Commissioning Work</h2>
 <div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
     <p>I am open to commissioning work. <br>If you have a project in mind, please feel free to reach out to me via Discord or email.</p>
 </div>
