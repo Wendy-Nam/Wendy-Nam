@@ -1,3 +1,5 @@
+> This README, indicating my current status and plans, will be updated at least once a week.
+
 ## ❗️ Availability Notice ❗️
 
 - I'm currently focused on academics and exams until `December 23rd`, limiting my ability to handle outsourcing requests or issues.
