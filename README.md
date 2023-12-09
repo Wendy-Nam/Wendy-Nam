@@ -9,8 +9,6 @@
       <img src="https://github.com/Wendy-Nam/Wendy-Nam/assets/142412339/e75a8e58-c3a5-4dc6-812a-98aabffdd59d" alt="Profile Image" width="200" height="200">
     </p>
     <div align="center" style="font-weight: bold">
-      <p>💡 Experienced Python/Ren'Py Developer</p>
-      <p>⚡️ Proficient in C/C++, Python and Golang</p>
       <p>✨ Open to Commissioning Work ✨</p>
     </div>
 </div>
