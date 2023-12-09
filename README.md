@@ -35,10 +35,3 @@
         <a href="mailto:42.4.senam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white"/></a>
     </div>
 </div>
-
-<h2 align="center">Commissioning Work</h2>
-<div align="center" style="background-image: url('https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?cs=srgb&dl=pexels-felix-mittermeier-1146134.jpg&fm=jpg'); background-size: cover; padding: 10px; padding-top: 30px">
-    <p>I am open to commissioning work. <br>If you have a project in mind, please feel free to reach out to me via Discord or email.</p>
-</div>
-
-
