@@ -3,7 +3,7 @@
     <p align="center">
       <a href="https://seo-a-nam.itch.io/"><strong>Game Portfolio</strong></a> |
       <a href="https://github.com/Seo-A-Nam"><strong>Old GitHub</strong></a> |
-      <a href="https://github.com/Wendy-Nam"><strong>New GitHub</strong></a> |
+      <a href="https://github.com/Wendy-Nam"><strong>New GitHub</strong></a>
     </p>
     <div align="center" style="font-weight: bold">
       <p>✨ Open to Commissioning Work ✨</p>
