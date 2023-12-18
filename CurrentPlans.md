@@ -45,7 +45,7 @@ For quick responses, contact me via `Discord (san0901)`.
   - Separate and upload my part of the implementation on GitHub.
 
 ### Dancing Dino Project
-- [ ] **Dancing Dino Update 1**
+- [x] **Dancing Dino Update 1**
   - Modify the code to display on Adafruit Bonnet LCD instead of tk GUI.
 - [ ] **Dancing Dino Update 2**
   - Optimize rendering performance and separate files for better management.
