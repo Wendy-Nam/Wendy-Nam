@@ -1,19 +1,25 @@
 <h1 align="center">Wendy Nam (Seo-A-Nam)</h1>
 <div align="center">
+
+> *(This Github mostly for game or temporary school project use)*
+
+</div>
+<br/>
+<div align="center">
+<a href="https://discord.com/users/san0901"><button><img src="https://img.shields.io/badge/Discord-san0901-blue?logo=discord&logoColor=white"></button></a>
+<!--
+<a href="https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US"><button><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></button></a>
+<a href="mailto:42.4.senam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white"/></a>
+    </div>-->
     <p align="center">
-      <a href="https://seo-a-nam.itch.io/"><strong>Game Portfolio</strong></a> |
-      <a href="https://github.com/Seo-A-Nam"><strong>Old GitHub</strong></a> |
-     <a href="https://github.com/Wendy-Nam/Wendy-Nam/blob/main/CurrentPlans.md"><strong>Status Updates</strong></a>
+      <a href="https://seo-a-nam.itch.io/"><strong>Itch.io</strong></a> |
+      <!--<a href="https://github.com/Seo-A-Nam"><strong>Old GitHub</strong></a> |-->
+     <a href="https://github.com/Wendy-Nam/Wendy-Nam/blob/main/CurrentPlans.md"><strong>Updates</strong></a>
     </p>
     <div align="center" style="font-weight: bold">
       <p>✨ Open to Commissioning Work ✨</p>
-
-<a href="https://discord.com/users/san0901"><button><img src="https://img.shields.io/badge/Discord-san0901-blue?logo=discord&logoColor=white"></button></a>
-<a href="https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US"><button><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></button></a>
-<a href="mailto:42.4.senam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=mail.ru&logoColor=white"/></a>
-    </div>
 </div>
-
+<br/>
 <h2 align="center">Skills & Interest</h2>
 <div align="center" style="padding: 10px; padding-top: 30px">
     <div align="center" style="font-weight: bold">
@@ -37,3 +43,4 @@ Crafting Dev Tools
 Open-source Contribution
 
 Application Service development
+
