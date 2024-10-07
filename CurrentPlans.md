@@ -1,56 +1,33 @@
-> This README, indicating my current status and plans, will be updated at least once a week.
+# 📅 Availability
 
-## ❗️ Availability Notice ❗️
-
-- I'm currently focused on academics and exams until `December 23rd`, limiting my ability to handle outsourcing requests or issues.
-  - However, I welcome any inquiries about my code and enjoy assisting others.
-- I'll be more available to work on `Ren'Py developer tools` and **usability enhancements** after then.
-  - I welcome anyone interested in developing tools and open-source projects with me. Even if you're not confident in your development skills, I'm open to teaching and learning together, so feel free to reach out
-
-For quick responses, contact me via `Discord (san0901)`.
+- **Busy with Final Semester**: Focused on graduation prep and portfolio building.
+- **Ren'Py Tools Updates**: Major updates planned within the next 3-4 months for compatibility with the latest Ren'Py version and native execution.
+- **Apologies for Inactivity**: Little issue tracking/support over the past year due to personal reasons.
+- **Renewed Focus**: Recent programming experience has helped identify solutions for existing tool issues.
 
 ---
 
-## Personal Project: Renpy Tools
+# 🔧 Upcoming Ren'Py Tool Updates
 
-- [ ] **Tutorial Videos for Open Source Projects**
-  - Upload tutorial videos on YouTube for all existing open source projects and update README.
-- [ ] **Improvements to Rhubarb & Renpy Integrated Lipsync Tool**.
-- [ ] **💡 Choice Flowchart & Illustration Screen 💡** 
-  - Implement a screen with lock/unlocked status display.
-- [ ] **Rhythm Game (Minigame)**: Develop and deploy a rhythm game minigame.
-- [ ] **Modularization and Optimization of Existing Minigames**
-  - Make existing minigames customizable and insertable into any game.
+> *Expected period `(Nov.2024 ~ Feb.2025)`*
 
-----
+### 1. Lipsync Tool
+- **v1.02**
+  - Issue fix (using Native class inheritence, to avoid current issue on conflicts)
+  - Simpler call structure but may require specifying audio file names.
+- **v1.03**: Focus on automation—easier audio/dialogue syncing through Excel sheets or graphic viewer.
 
-## Personal Interest & Volunteering 🔠
+### 2. Layout Tool
+- **Future - v1.02**
+  - alpha/zoom control, clipboard support for coordinates.
+  - easy due to code design which currently enables custom transitions on hovered/active item.
+- **Future - v2.01**
+  - Adding interface for simple transition adding/previewing
+  - Custom transitions for `onhide/onshow`, stacking, and smooth ATL templates.
 
-- **Language Exchange and Communication 🇰🇷** 
-  - Passionate about language exchange and intercultural communication, I have a rich history of assisting foreign friends with their transition to life in Korea.
-  - Currently developing a community app dedicated to supporting foreigners residing in Korea, with plans to include a customized content wiki. This wiki will provide information and services tailored to individual situations and interests, such as expected duration of stay, purpose of visit, and personal interests.
-  - If you have an interest in Korea, whether for residing or visiting, feel free to contact me on Discord for advice and insights.
- 
-- **Available Tutor Work (Volunteer)**
-  - **Korean Language**: Happy to offer free tutoring in Korean grammar and pronunciation. Availability may vary according to my schedule, but questions and conversations are always welcome.
-  - **Renpy Basics and Python Application**: Can teach the basics of Renpy, its application with Python, and techniques for developing versatile mini-games. This is also volunteer work as I believe in sharing knowledge without expecting compensation.
+### 3. Interactive Game Plugin
+- **Issue**: Python logic conflicted with Ren'Py rollback.
+- **Solution**: Updates to use native Ren'Py screen language and timer functions.
 
-
-----
-
-## School Project (KAU) 
-
-### IoT Project
-- [x] **Baby Cry Detection Logic in IoT Project**
-  - Separate and upload my part of the implementation on GitHub.
-
-### Dancing Dino Project
-- [x] **Dancing Dino Update 1**
-  - Modify the code to display on Adafruit Bonnet LCD instead of tk GUI.
-- [ ] **Dancing Dino Update 2**
-  - Optimize rendering performance and separate files for better management.
-
-### Web Service Project
-- [ ] App deploy on andriod playstore
-- [ ] **Pilot Operation of Existing Beta Service**
-  - Conduct a trial run of the current beta service.
+### 4. RadioButton/ButtonGroup Plugin
+- **High Priority**: Simplify usage with flags, customizable options, and ready-to-use examples without deep Python/Ren'Py knowledge.
