@@ -25,7 +25,7 @@
 - Microsoft Azure AI Hackathon 2025 – [Design Award](https://devpost.com/software/azurefarming)  
 - Fluent in UX/system planning  
 - Blog 🇰🇷: [Tistory (Korean)](http://nsa901.tistory.com)  
-- CS Docs 🇰🇷: [Notion](https://educated-tarsier-f16.notion.site/1e79bf46184a80ff996fdd27add56d3c?pvs=74)  
+- CS Docs 🇰🇷: [Notion](https://educated-tarsier-f16.notion.site/1e79bf46184a80ff996fdd27add56d3c?pvs=4)  
 - Old work (System Programming): [Seo-A-Nam GitHub](https://github.com/Seo-A-Nam)
 
 ---
