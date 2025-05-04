@@ -22,18 +22,20 @@
 ---
 
 ### 🏆 Highlights
-- Microsoft Azure AI Hackathon 2025 – [Design Award](https://devpost.com/software/azurefarming)  
-- Fluent in UX/system planning  
-- Blog 🇰🇷: [Tistory (Korean)](http://nsa901.tistory.com)  
-- Blog 🇰🇷: [Notion (Koreran)](https://educated-tarsier-f16.notion.site/1e79bf46184a80ff996fdd27add56d3c?pvs=4)  
-- Old work (Academic & System Programming): [Seo-A-Nam GitHub](https://github.com/Seo-A-Nam)
+- My Renpy Tools & VN Projects - [View All](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)  
+- Microsoft Azure AI Developer Hackathon 2025 – [Design Award](https://devpost.com/software/azurefarming)  
 
 ---
 
-### 🔗 Featured Projects
-- 🔧 [MyRenPyTools (700+ Downloads)](https://github.com/Wendy-Nam/MyRenPyTools)  
-- ☁️ [AzureFarming (DevPost)](https://devpost.com/software/azurefarming)  
-- 🧩 [Storybook Components](https://wendy-jmcomponents-rn.vercel.app/?path=/docs/utilities-colormap--docs)  
+### 🧰 Active Projects (Current)
+Hands-on tools and ongoing development work
+
+[🔗 View current projects on GitHub (Wendy-Nam)](https://github.com/Wendy-Nam/Wendy-Nam/blob/main/acc_current.md)
+
+### 📚 Archive / Academic Work (Past)
+Past studies in system programming, algorithms, and academic projects
+
+[🔗 View archived work on GitHub (Seo-A-Nam)](https://github.com/Wendy-Nam/Wendy-Nam/blob/main/acc_prev.md)
 
 ---
 
