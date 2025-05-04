@@ -1,6 +1,6 @@
 # Current Account | 현재 계정 활동
 
-[![GitHub: Wendy-Nam](https://img.shields.io/badge/GitHub-Wendy-Nam-181717?logo=github&style=flat-square)](https://github.com/Wendy-Nam)
+[![GitHub: Wendy-Nam](https://img.shields.io/badge/GitHub-Wendy--Nam-181717?logo=github&style=flat-square)](https://github.com/Wendy-Nam)
 
 
 ## 🧪 Open Source Tools | 오픈 소스 활동 
