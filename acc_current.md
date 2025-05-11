@@ -54,18 +54,33 @@
 
 ---
 
-### 🌏 HANZOOM (Community Platform for Foreigners in Korea)  
-- **Version 1**: React Native + Firebase  
-  → Applied to startup funding programs, participated in multiple pitch sessions  
-- **Version 2**: [PHP Web Repo](https://github.com/KoreaHanZoom/KoreaHanZoomServer)  
-- **Version 3**: [React Org Repo](https://github.com/orgs/kaugitkau/repositories)  
-- 📄 [Docs & Reports](https://drive.google.com/drive/folders/11QKaug948L62UFHTZQL50FG49dD8bCIT?usp=sharing)  
-- **Type**: Startup Project | 창업형 프로젝트 (학기 연계형 장기 개발)  
-- **Progress**: React Native App → PHP Web → React + Tailwind Web  
-- **Key Features**:  
-  - Multilingual content support using ChatGPT & Google Translate API  
-  - Public data integration & local community features  
-  - Participated in startup documentation, public demo days, and mentorship programs
+## 🌏 HANZOOM | Community Platform for Foreigners in Korea
+
+> 📝 [**Portfolio Page**](https://educated-tarsier-f16.notion.site/HANZOOM-1ef9bf46184a80a8aa13edef5e03d502?pvs=4)
+
+### 📌 프로젝트 개요
+
+- 주한 외국인을 위한 커뮤니티 및 정보 플랫폼
+- 기획부터 기술 구현, 발표 및 문서화까지 전 과정 직접 수행
+- 학기 프로젝트 + 예비창업 연계형 장기 개발 프로젝트
+
+### 🔁 버전별 개발 흐름
+
+| 버전 | 주요 기술 | 링크 | 비고 |
+|------|-----------|------|------|
+| V1 | React Native + Firebase | [GitHub](https://github.com/Wendy-Nam/react-practice/tree/main/RN/HANZ8M) | 스타트업 서류 및 피칭 참여 |
+| V2 | HTML/CSS/JS + PHP | [GitHub](https://github.com/Wendy-Nam/HANZOOM-2023-web) | 2023-2학기 학기 프로젝트 |
+| V3 | React + Tailwind CSS | [GitHub](https://github.com/kaugitkau/KauGitFront) | UI/UX 개선 + 공공데이터 공모전 예심 통과 |
+
+### 🔧 주요 기능 및 활동
+
+- 다국어 콘텐츠 제공 (ChatGPT API + Google Translator API 연동)
+- 공공데이터(관광·행정) 연계 기능 구현
+- 반응형 웹 + 모바일 앱 프로토타입 구현
+- 예비창업패키지 제출, 창업 발표회 및 멘토링 프로그램 참가
+
+> This project was initiated to solve communication and information access gaps for foreigners living in Korea.  
+> From planning to development and public presentation, it was executed as a long-term startup-linked academic project.
 
 > 주한 외국인을 위한 커뮤니티/정보 플랫폼으로, 기획부터 기술 구현, 사업화 문서화까지 직접 수행한 창업형 프로젝트입니다.
 
