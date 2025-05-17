@@ -22,7 +22,7 @@
 ---
 
 ### 🏆 Highlights
-- My Renpy Tools & VN Projects - [View All](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)  
+- Open-source Ren'Py tools and visual novel projects - [View All](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)  
 - Microsoft Azure AI Developer Hackathon 2025 – [Design Award](https://devpost.com/software/azurefarming)  
 
 ---
