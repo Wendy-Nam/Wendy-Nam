@@ -6,7 +6,8 @@
 ## 🧪 Open Source Tools | 오픈 소스 활동 
 
 ### 🎮 Ren’Py Game Tools & Contributions  
-- [View Tools & Projects on GitHub](https://github.com/Wendy-Nam/MyRenPyTools)  
+- [View Tools & Projects on GitHub](https://github.com/Wendy-Nam/MyRenPyTools)
+- [Portfolio (KR)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)
 - Custom helper modules and UI scripts for the Ren’Py visual novel engine  
 - Openly shared on itch.io (700+ downloads)  
 - Contributed to community-based and international VN projects
@@ -17,6 +18,28 @@
 > *Full project list available [here](https://github.com/Wendy-Nam/MyRenPyTools#-visual-novel-projects)*
 
 > 위 게임들은 Ren'Py 기반으로 진행된 국제 게임잼/커뮤니티 프로젝트로, PM·트러블슈팅·코드 기여 및 리뷰 등 다양한 형태로 참여했습니다.
+
+---
+
+## 🤖 Lingo - Discord translation bot (2024 - 2025)
+
+> Lingo Bot은 실시간 AI 기반 한-영 Discord 통역 봇입니다.
+> 
+> V1은 글로벌 프로젝트 언어 장벽 해결에 기여했으며, V2는 사용성 개선과 GCP 인프라 자동화를 특징으로 합니다.
+
+> Lingo Bot is a real-time AI-powered Korean-English Discord translation bot.
+> 
+> V1 addressed language barriers in a global project, while V2 features usability enhancements and GCP infrastructure automation.
+
+- [Github](https://github.com/Wendy-Nam/MyDiscordBot)
+- [Portfolio (KR)](https://educated-tarsier-f16.notion.site/GCP-Discord-Bot-1f79bf46184a8021a6b0d52d1aee06f3?pvs=4)  
+- **Stack:** `GCP (Compute Engine)`, `Terraform`, `GitHub Actions`, `Python`, `Discord API`, `OpenAI API`
+- **Contributions:**
+ - **V1 (2024년 9월):** 글로벌 팀 프로젝트 언어 장벽 해결 기여.
+ - **V2 (2025년 5월):**
+    * 사용자 인터페이스 개선 (디스코드 앱 슬래시 커맨드 도입).
+    * 언어 감지 정확도 향상 (langdetect 활용).
+    * GCP 인프라 자동화 도입 (Terraform, GitHub Actions).
 
 ---
 
