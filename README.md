@@ -1,5 +1,8 @@
 <h1 align="left">👋 Hi, I'm Wendy Nam (Seo-A-Nam)</h1>
 
+> **`ENTJ`** · Helpful & easygoing
+
+
 <div align="left">
   <a href="https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
