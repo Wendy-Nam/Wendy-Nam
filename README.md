@@ -17,10 +17,10 @@
 
 ### 🏷️ Focus Areas
 
-- Service Design · System Automation
-- Cloud Infra & DevOps (Azure, Terraform, Docker)
-- Frontend (React, Native, Storybook)
+- Cloud Infra & DevOps (Azure, GCP, Terraform, Docker, Github CI/CD)
 - Game Tools (Ren'Py, Hobbyist Game Dev)
+- Service Design · System Automation
+- Frontend (React, Native, Storybook)
 
 ---
 
