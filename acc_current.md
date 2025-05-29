@@ -64,7 +64,8 @@
 
 ### 🐾 SMART PET (Industry-Academia Project, 2024)  
 
-- [Jest API Test Repo](https://github.com/Wendy-Nam/jest_ai_cateye)
+- [Jest API Test Repo](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test)
+- [Jest API Test Visual Results](https://jest-ai-cateye.vercel.app)
 - [Storybook Docs](https://wendy-jmcomponents-rn.vercel.app/)
 - [Storybook Source](https://github.com/Wendy-Nam/addon-react-native-web)
 - [Frontend Repository](https://github.com/KAU-SMART-PETS/Capstone_FE)
