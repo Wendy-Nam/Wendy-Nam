@@ -63,17 +63,21 @@
 ---
 
 ### 🐾 SMART PET (Industry-Academia Project, 2024)  
-- [Frontend Repo](https://github.com/KAU-SMART-PETS/Capstone_FE)  
-- [Storybook Source](https://github.com/Wendy-Nam/addon-react-native-web)  
-- [Storybook Docs](https://wendy-jmcomponents-rn.vercel.app/)  
-- **Award**: 대상 – 산학협력 성과 발표회  
-- **Stack**: React Native, Tailwind, Fastlane, Storybook, Jest  
-- **Contributions**:  
-  - UI/UX 구성과 CSS 구조를 Tailwind 기반으로 통합  
-  - Fastlane CI/CD 자동화로 배포 효율화  
-  - Storybook 기반 문서화 및 QA 자동화
 
-> 불안정한 개발 환경과 반복 작업을 구조화하고 자동화한, React-Native 기반 모바일 앱 협업 프로젝트입니다.
+- [Jest API Test Repo](https://github.com/Wendy-Nam/jest_ai_cateye)
+- [Storybook Docs](https://wendy-jmcomponents-rn.vercel.app/)
+- [Storybook Source](https://github.com/Wendy-Nam/addon-react-native-web)
+- [Frontend Repository](https://github.com/KAU-SMART-PETS/Capstone_FE)
+
+- **Award:** 대상 – 산학협력 성과 발표회
+- **Tech Stack:** React Native, Tailwind CSS, Fastlane, Storybook, Jest
+
+**주요 기여 및 성과**
+- UI/UX 및 CSS 구조를 Tailwind 기반으로 일원화
+- Fastlane을 활용한 CI/CD 자동화 및 배포 효율화
+- Storybook 기반 문서화와 QA 자동화 환경 구축
+
+> 반복적이고 불안정한 개발 환경을 구조화·자동화하여, 협업 효율성과 품질을 높인 React Native 기반 모바일 앱 프로젝트입니다.
 
 ---
 
