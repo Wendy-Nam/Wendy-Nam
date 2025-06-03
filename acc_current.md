@@ -6,8 +6,10 @@
 ## 🧪 Open Source Tools | 오픈 소스 활동 
 
 ### 🎮 Ren’Py Game Tools & Contributions  
-- [GitHub: Tools & Projects](https://github.com/Wendy-Nam/MyRenPyTools)  
-- [포트폴리오 (KR)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)  
+
+#### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)
+#### 🔗 [GitHub: Tools & Projects](https://github.com/Wendy-Nam/MyRenPyTools)  
+
 - Ren’Py용 Python 커스텀 모듈 및 UI 스크립트 개발  
 - itch.io 공개 배포 (700+ 다운로드)  
 - 글로벌 커뮤니티 VN 프로젝트 기여
@@ -18,11 +20,11 @@
 
 ## 🤖 Lingo - Discord Translation Bot (2024–2025)
 
-- [GitHub](https://github.com/Wendy-Nam/MyDiscordBot)  
-- [포트폴리오 (KR)](https://educated-tarsier-f16.notion.site/GCP-Discord-Bot-1f79bf46184a8021a6b0d52d1aee06f3?pvs=4)  
-- **Stack:** GCP Compute Engine, Terraform, GitHub Actions, Python, Discord API, OpenAI API
+> **Stack:** GCP Compute Engine, Terraform, GitHub Actions, Python, Discord API, OpenAI API
 
-### 주요 기여  
+#### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/GCP-Discord-Bot-1f79bf46184a8021a6b0d52d1aee06f3?pvs=4)
+#### 🔗 [GitHub](https://github.com/Wendy-Nam/MyDiscordBot)  
+
 - **V1 (2024년 9월):** 글로벌 팀 프로젝트 언어 장벽 해소  
 - **V2 (2025년 5월):**  
   - Discord 앱 슬래시 커맨드로 UI 개선  
@@ -37,17 +39,19 @@
 
 ### 🌱 AzureFarming (Azure AI Developer Hackathon 2025)
 
+> **Stack**: Azure IoT Hub, Terraform, Node.js, MicroPython, ESP32, React
 
+#### 🔗 [Hackathon Submission](https://devpost.com/software/azurefarming)
+#### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/2025-AzureFarming-1f09bf46184a808d9e61f0de3d78fce6?source=copy_link)
+#### 🔗 Github Lists
 | 항목             | 링크                                                        |
 |------------------|-------------------------------------------------------------|
-| Devpost          | [🔗 Link](https://devpost.com/software/azurefarming)        |
 | IoT Repo         | [🔗 GitHub](https://github.com/AzureFarming2025/IoT)         |
 | Deployment Infra | [🔗 GitHub](https://github.com/AzureFarming2025/azure-iot-deployment) |
 | Frontend Repo    | [🔗 GitHub](https://github.com/AzureFarming2025/frontend)    |
 
 - **Award**: Winner – Design Track  
 - **Role**: Team Lead (Infra, IoT, Service Planning)  
-- **Stack**: Azure IoT Hub, Terraform, Node.js, MicroPython, ESP32, React  
 - **Highlights**:  
   - End-to-end IoT architecture  
   - Deployment time cut by over 50% with Terraform IaC  
@@ -59,22 +63,24 @@
 
 ### 🐾 SMART PET (Industry-Academia Project, 2024)  
 
-| 분류 | 항목 | 링크 |
-|------|------|------|
-| 🔧 Code | Frontend Repo | [🔗 GitHub](https://github.com/KAU-SMART-PETS/Capstone_FE) |
-|  | Jest API Test Repo | [🔗 GitHub](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test) |
-|  | Storybook Source | [🔗 GitHub](https://github.com/Wendy-Nam/addon-react-native-web) |
-| 🌐 Demo | Jest Test Visual | [🔗 Site](https://jest-ai-cateye.vercel.app) |
-|  | Storybook Docs | [🔗 Site](https://wendy-jmcomponents-rn.vercel.app/) |
+> **Stack:** Fastlane, Firebase, Vercel, Storybook, Jest, React Native, Tailwind CSS
 
-- **Award:** 대상 – 산학협력 성과 발표회  
-- **Tech Stack:** Fastlane, Firebase, Vercel, Storybook, Jest, React Native, Tailwind CSS
+#### 🔗 Demo Lists
+- Storybook Docs: [🔗 Site](https://wendy-jmcomponents-rn.vercel.app/)  
+- Jest Test Visual: [🔗 Site](https://jest-ai-cateye.vercel.app)  
+- CI/CD Documentation: [🔗 GitHub](https://github.com/KAU-SMART-PETS/Capstone_FE)
 
-**Key Contributions**  
-- Fastlane 기반 CI/CD 자동화 및 배포 효율화  
-- Storybook 활용 문서화와 QA 자동화 환경 구축  
+#### 🔗 GitHub Repositories
+- Jest API Test Repo: [🔗 GitHub](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test)  
+- Storybook Source: [🔗 GitHub](https://github.com/Wendy-Nam/addon-react-native-web)
 
-> 반복적이고 불안정한 개발 환경을 구조화·자동화하여, 협업 생산성과 품질을 높인 React Native 모바일 앱 프로젝트입니다.
+- **Award:** 대상 – 산학협력 성과 발표회
+- **Role**: Frontend & DevOps  
+- **Highlights**:  
+  - Fastlane 기반 CI/CD 자동화 및 배포 효율화  
+  - Storybook 활용 문서화와 QA 자동화 환경 구축  
+
+> 반복적인 불안정 개발 환경을 자동화해 협업 효율과 품질을 높인 React Native 모바일 앱 프로젝트입니다.
 
 ---
 
@@ -151,8 +157,9 @@
 
 
 ## 📚 Participated Visual Novel Projects
-> *Full project list available [here](https://github.com/Wendy-Nam/MyRenPyTools#-visual-novel-projects)*
 
+> *Full project list available [here](https://github.com/Wendy-Nam/MyRenPyTools#-visual-novel-projects)*
+> 
 > 위 게임들은 Ren'Py 기반으로 진행된 국제 게임잼/커뮤니티 프로젝트로, PM·트러블슈팅·코드 기여 및 리뷰 등 다양한 형태로 참여했습니다.
 
 ---
