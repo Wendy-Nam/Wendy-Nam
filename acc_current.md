@@ -6,72 +6,75 @@
 ## 🧪 Open Source Tools | 오픈 소스 활동 
 
 ### 🎮 Ren’Py Game Tools & Contributions  
-- [View Tools & Projects on GitHub](https://github.com/Wendy-Nam/MyRenPyTools)
-- [Portfolio (KR)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)
-- Custom helper modules (Python) and UI scripts for the Ren’Py visual novel engine  
-- Openly shared on itch.io (700+ downloads)  
-- Contributed to community-based and international VN projects
+- [GitHub: Tools & Projects](https://github.com/Wendy-Nam/MyRenPyTools)  
+- [포트폴리오 (KR)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)  
+- Ren’Py용 Python 커스텀 모듈 및 UI 스크립트 개발  
+- itch.io 공개 배포 (700+ 다운로드)  
+- 글로벌 커뮤니티 VN 프로젝트 기여
 
-> Ren’Py 기반 비주얼 노벨용 커스텀 도구를 개발하고, 오픈소스 형태로 배포한 기록입니다.
+> Ren’Py 기반 비주얼 노벨용 오픈소스 도구 개발 및 배포 기록입니다.
 
 ---
 
-## 🤖 Lingo - Discord translation bot (2024 - 2025)
+## 🤖 Lingo - Discord Translation Bot (2024–2025)
 
-> Lingo Bot은 실시간 AI 기반 한-영 Discord 통역 봇입니다.
+- [GitHub](https://github.com/Wendy-Nam/MyDiscordBot)  
+- [포트폴리오 (KR)](https://educated-tarsier-f16.notion.site/GCP-Discord-Bot-1f79bf46184a8021a6b0d52d1aee06f3?pvs=4)  
+- **Stack:** GCP Compute Engine, Terraform, GitHub Actions, Python, Discord API, OpenAI API
 
-> Lingo Bot is a real-time AI-powered Korean-English Discord translation bot.
-> 
-> V1 addressed language barriers in a global project, while V2 features usability enhancements and GCP infrastructure automation.
+### 주요 기여  
+- **V1 (2024년 9월):** 글로벌 팀 프로젝트 언어 장벽 해소  
+- **V2 (2025년 5월):**  
+  - Discord 앱 슬래시 커맨드로 UI 개선  
+  - langdetect 활용 언어 감지 정확도 향상  
+  - Terraform & GitHub Actions 기반 GCP 인프라 자동화
 
-- [Github](https://github.com/Wendy-Nam/MyDiscordBot)
-- [Portfolio (KR)](https://educated-tarsier-f16.notion.site/GCP-Discord-Bot-1f79bf46184a8021a6b0d52d1aee06f3?pvs=4)  
-- **Stack:** `GCP (Compute Engine)`, `Terraform`, `GitHub Actions`, `Python`, `Discord API`, `OpenAI API`
-- **Contributions:**
- - **V1 (2024년 9월):** 글로벌 팀 프로젝트 언어 장벽 해결 기여.
- - **V2 (2025년 5월):**
-    * 사용자 인터페이스 개선 (디스코드 앱 슬래시 커맨드 도입).
-    * 언어 감지 정확도 향상 (langdetect 활용).
-    * GCP 인프라 자동화 도입 (Terraform, GitHub Actions).
+> 실시간 AI 기반 한영 디스코드 번역 봇, 글로벌 협업 환경 지원 프로젝트입니다.
 
 ---
 
 ## 🏆 Highlighted Projects | 주요 수상 및 대표 프로젝트
 
-### 🌱 AzureFarming (Azure AI Developer Hackathon 2025)  
-- [Devpost](https://devpost.com/software/azurefarming)  
-- [IoT Repo](https://github.com/AzureFarming2025/IoT)  
-- [Deployment Infra](https://github.com/AzureFarming2025/azure-iot-deployment)  
-- [Frontend Repo](https://github.com/AzureFarming2025/frontend)  
+### 🌱 AzureFarming (Azure AI Developer Hackathon 2025)
+
+
+| 항목             | 링크                                                        |
+|------------------|-------------------------------------------------------------|
+| Devpost          | [🔗 Link](https://devpost.com/software/azurefarming)        |
+| IoT Repo         | [🔗 GitHub](https://github.com/AzureFarming2025/IoT)         |
+| Deployment Infra | [🔗 GitHub](https://github.com/AzureFarming2025/azure-iot-deployment) |
+| Frontend Repo    | [🔗 GitHub](https://github.com/AzureFarming2025/frontend)    |
+
 - **Award**: Winner – Design Track  
-- **Role**: PM / IoT / Infra / Frontend  
-- **Stack**: ESP32 (MicroPython), Azure IoT Hub, Terraform, Node.js (Function App), React + Tailwind  
-- **Highlights**:
-  - End-to-end architecture: sensor → cloud → UI  
-  - 80% faster deployment with IaC (Terraform)  
+- **Role**: Team Lead (Infra, IoT, Service Planning)  
+- **Stack**: Azure IoT Hub, Terraform, Node.js, MicroPython, ESP32, React  
+- **Highlights**:  
+  - End-to-end IoT architecture  
+  - Deployment time cut by over 50% with Terraform IaC  
   - Real-time device simulation & event-driven messaging
 
-> Azure 기반 스마트팜 플랫폼으로, 기획부터 클라우드-디바이스 연결 전반을 주도한 해커톤 수상작입니다.
+> Azure 기반 스마트팜으로, 인프라 및 클라우드-디바이스 연동을 주도해 수상했습니다.
 
 ---
 
 ### 🐾 SMART PET (Industry-Academia Project, 2024)  
 
-- [Jest API Test Repo](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test)
-- [Jest API Test Visual Results](https://jest-ai-cateye.vercel.app)
-- [Storybook Docs](https://wendy-jmcomponents-rn.vercel.app/)
-- [Storybook Source](https://github.com/Wendy-Nam/addon-react-native-web)
-- [Frontend Repository](https://github.com/KAU-SMART-PETS/Capstone_FE)
+| 분류 | 항목 | 링크 |
+|------|------|------|
+| 🔧 Code | Frontend Repo | [🔗 GitHub](https://github.com/KAU-SMART-PETS/Capstone_FE) |
+|  | Jest API Test Repo | [🔗 GitHub](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test) |
+|  | Storybook Source | [🔗 GitHub](https://github.com/Wendy-Nam/addon-react-native-web) |
+| 🌐 Demo | Jest Test Visual | [🔗 Site](https://jest-ai-cateye.vercel.app) |
+|  | Storybook Docs | [🔗 Site](https://wendy-jmcomponents-rn.vercel.app/) |
 
-- **Award:** 대상 – 산학협력 성과 발표회
-- **Tech Stack:** React Native, Tailwind CSS, Fastlane, Storybook, Jest
+- **Award:** 대상 – 산학협력 성과 발표회  
+- **Tech Stack:** Fastlane, Firebase, Vercel, Storybook, Jest, React Native, Tailwind CSS
 
-**주요 기여 및 성과**
-- UI/UX 및 CSS 구조를 Tailwind 기반으로 일원화
-- Fastlane을 활용한 CI/CD 자동화 및 배포 효율화
-- Storybook 기반 문서화와 QA 자동화 환경 구축
+**Key Contributions**  
+- Fastlane 기반 CI/CD 자동화 및 배포 효율화  
+- Storybook 활용 문서화와 QA 자동화 환경 구축  
 
-> 반복적이고 불안정한 개발 환경을 구조화·자동화하여, 협업 효율성과 품질을 높인 React Native 기반 모바일 앱 프로젝트입니다.
+> 반복적이고 불안정한 개발 환경을 구조화·자동화하여, 협업 생산성과 품질을 높인 React Native 모바일 앱 프로젝트입니다.
 
 ---
 
@@ -81,11 +84,10 @@
 
 ### 📌 프로젝트 개요  
 
-> 예비창업-학기연계 프로젝트
 > Pre-startup / Semester-linked Long-term Project
 
 - 주한 외국인을 위한 커뮤니티 및 생활 정보 플랫폼  
-- 기획, 디자인, 개발, 발표, 문서화 전 과정 단독 수행  
+- 기획, 디자인, 발표, 문서화 전 과정 단독 수행
 - 학기제 프로젝트와 예비 창업 과정을 연계한 장기 개발 경험
 
 ### 🔁 버전별 개발 흐름
@@ -99,14 +101,12 @@
 ### 🔧 주요 기능 및 활동
 
 - 다국어 콘텐츠 제공 (ChatGPT API + Google Translator API 연동)
-- 공공데이터(관광·행정) 연계 기능 구현
-- 반응형 웹 + 모바일 앱 프로토타입 구현
+- 공공데이터(관광·행정) 연계 기능 API 통합
+- 반응형 웹 + 모바일 앱 프로토타입 프론트엔드 구현
 - 예비창업패키지 제출, 창업 발표회 및 멘토링 프로그램 참가
 
 > This project was initiated to solve communication and information access gaps for foreigners living in Korea.  
 > From planning to development and public presentation, it was executed as a long-term startup-linked academic project.
-
-> 주한 외국인을 위한 커뮤니티/정보 플랫폼으로, 기획부터 기술 구현, 사업화 문서화까지 직접 수행한 창업형 프로젝트입니다.
 
 ---
 
