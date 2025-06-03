@@ -19,8 +19,6 @@
 ## 🤖 Lingo - Discord translation bot (2024 - 2025)
 
 > Lingo Bot은 실시간 AI 기반 한-영 Discord 통역 봇입니다.
-> 
-> V1은 글로벌 프로젝트 언어 장벽 해결에 기여했으며, V2는 사용성 개선과 GCP 인프라 자동화를 특징으로 합니다.
 
 > Lingo Bot is a real-time AI-powered Korean-English Discord translation bot.
 > 
@@ -81,11 +79,14 @@
 
 > 📝 [**Portfolio Page**](https://educated-tarsier-f16.notion.site/HANZOOM-1ef9bf46184a80a8aa13edef5e03d502?pvs=4)
 
-### 📌 프로젝트 개요
+### 📌 프로젝트 개요  
 
-- 주한 외국인을 위한 커뮤니티 및 정보 플랫폼
-- 기획부터 기술 구현, 발표 및 문서화까지 전 과정 직접 수행
-- 학기 프로젝트 + 예비창업 연계형 장기 개발 프로젝트
+> 예비창업-학기연계 프로젝트
+> Pre-startup / Semester-linked Long-term Project
+
+- 주한 외국인을 위한 커뮤니티 및 생활 정보 플랫폼  
+- 기획, 디자인, 개발, 발표, 문서화 전 과정 단독 수행  
+- 학기제 프로젝트와 예비 창업 과정을 연계한 장기 개발 경험
 
 ### 🔁 버전별 개발 흐름
 
