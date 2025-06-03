@@ -66,13 +66,19 @@
 > **Stack:** Fastlane, Firebase, Vercel, Storybook, Jest, React Native, Tailwind CSS
 
 #### 🔗 Demo Lists
-- Storybook Docs: [🔗 Site](https://wendy-jmcomponents-rn.vercel.app/)  
-- Jest Test Visual: [🔗 Site](https://jest-ai-cateye.vercel.app)  
-- CI/CD Documentation: [🔗 GitHub](https://github.com/KAU-SMART-PETS/Capstone_FE)
 
-#### 🔗 GitHub Repositories
-- Jest API Test Repo: [🔗 GitHub](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test)  
-- Storybook Source: [🔗 GitHub](https://github.com/Wendy-Nam/addon-react-native-web)
+| 항목             | 링크                                                      |
+|------------------|-----------------------------------------------------------|
+| Storybook Docs   | [🔗 Site](https://wendy-jmcomponents-rn.vercel.app/)       |
+| Jest Test Visual | [🔗 Site](https://jest-ai-cateye.vercel.app)               |
+
+#### 🔗 GitHub
+
+| 항목               | 링크                                                      |
+|--------------------|-----------------------------------------------------------|
+| CI/CD Documentation | [🔗 Repo](https://github.com/KAU-SMART-PETS/Capstone_FE)   |
+| Jest API Test Repo  | [🔗 Repo](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test) |
+| Storybook Source    | [🔗 Repo](https://github.com/Wendy-Nam/addon-react-native-web)      |
 
 - **Award:** 대상 – 산학협력 성과 발표회
 - **Role**: Frontend & DevOps  
