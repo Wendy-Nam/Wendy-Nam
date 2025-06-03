@@ -1,4 +1,4 @@
-# 📁 GitHub Account Role Map | 깃허브 계정 용도 정리
+# 📁 GitHub Account Role Map
 
 ## 🟦 `Wendy-Nam` (Active)
 > 📆 **2022 ~ 현재** | 주요 활동 계정  
