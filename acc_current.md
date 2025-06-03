@@ -92,33 +92,21 @@
 
 ## 🌏 HANZOOM | Community Platform for Foreigners in Korea
 
-> 📝 [**Portfolio Page**](https://educated-tarsier-f16.notion.site/HANZOOM-1ef9bf46184a80a8aa13edef5e03d502?pvs=4)
+#### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/HANZOOM-1ef9bf46184a80a8aa13edef5e03d502?pvs=4)
 
-### 📌 프로젝트 개요  
+### 기술 스택 및 프로젝트 개요
 
-> Pre-startup / Semester-linked Long-term Project
+| 버전 | 주요 기술                    | 링크                                                        | 비고                          |
+|------|-----------------------------|-------------------------------------------------------------|------------------------------|
+| V1   | React Native + Firebase      | [GitHub](https://github.com/Wendy-Nam/react-practice/tree/main/RN/HANZ8M) | 스타트업 서류 및 피칭 참여    |
+| V2   | HTML/CSS/JS + PHP            | [GitHub](https://github.com/Wendy-Nam/HANZOOM-2023-web)     | 2023-2학기 학기 프로젝트      |
+| V3   | React + Tailwind CSS         | [GitHub](https://github.com/kaugitkau/KauGitFront)          | UI/UX 개선, 공공데이터 공모전 예심 통과 |
 
-- 주한 외국인을 위한 커뮤니티 및 생활 정보 플랫폼  
-- 기획, 디자인, 발표, 문서화 전 과정 단독 수행
-- 학기제 프로젝트와 예비 창업 과정을 연계한 장기 개발 경험
+> 다국어 지원, 공공데이터 연계, 반응형 웹/앱 프로토타입 개발  
+> 예비창업과 연계된 학기 프로젝트입니다.
 
-### 🔁 버전별 개발 흐름
-
-| 버전 | 주요 기술 | 링크 | 비고 |
-|------|-----------|------|------|
-| V1 | React Native + Firebase | [GitHub](https://github.com/Wendy-Nam/react-practice/tree/main/RN/HANZ8M) | 스타트업 서류 및 피칭 참여 |
-| V2 | HTML/CSS/JS + PHP | [GitHub](https://github.com/Wendy-Nam/HANZOOM-2023-web) | 2023-2학기 학기 프로젝트 |
-| V3 | React + Tailwind CSS | [GitHub](https://github.com/kaugitkau/KauGitFront) | UI/UX 개선 + 공공데이터 공모전 예심 통과 |
-
-### 🔧 주요 기능 및 활동
-
-- 다국어 콘텐츠 제공 (ChatGPT API + Google Translator API 연동)
-- 공공데이터(관광·행정) 연계 기능 API 통합
-- 반응형 웹 + 모바일 앱 프로토타입 프론트엔드 구현
-- 예비창업패키지 제출, 창업 발표회 및 멘토링 프로그램 참가
-
-> This project was initiated to solve communication and information access gaps for foreigners living in Korea.  
-> From planning to development and public presentation, it was executed as a long-term startup-linked academic project.
+> Pre-startup / Semester-linked project  
+> Addressing communication gaps for foreigners in Korea.
 
 ---
 
