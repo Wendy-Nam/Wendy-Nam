@@ -26,23 +26,23 @@
 
 ---
 
-### 🌀 Language Practice | 언어 독학  
+## 🌀 Language Practice | 언어 독학  
 - Golang & gRPC: [Practice](https://github.com/Seo-A-Nam/ETC)  
 - Rust: [Tutorials](https://github.com/Seo-A-Nam/RUST_practice)
 
-### 🧱 Data Structures | 자료구조  
+## 🧱 Data Structures | 자료구조  
 - Community Study: [GitHub](https://github.com/Seo-A-Nam/data_structure), [Notion](https://educated-tarsier-f16.notion.site/42-0bf133032f0043afade2a50541b6a48b?pvs=4)  
 - University Coursework: [C++ Implementations](https://github.com/Seo-A-Nam/school_Data-Structure)
 
-### 📊 Data Science Coursework | 데이터사이언스 과제-발표  
-- [R-based Coursework](https://github.com/Seo-A-Nam/kau_data_science)
+## 🧠 Algorithm Practice | 알고리즘  
+- [LeetCode Solutions (C++)](https://github.com/Seo-A-Nam/Study_pair/tree/main/senam)
 
-### ☕ Java Basics | 자바 기초  
-- [Java Assignments](https://github.com/Seo-A-Nam/school-JAVA)
-
-### ⚙️ Compiler Course | 컴파일러 과제  
+## ⚙️ Compiler Course | 컴파일러 과제  
 - [Parser in C](https://github.com/Seo-A-Nam/kau-compiler)
 
-### 🧠 Algorithm Practice | 알고리즘  
-- [LeetCode Solutions (C++)](https://github.com/Seo-A-Nam/Study_pair/tree/main/senam)
+## 📊 Data Science Coursework | 데이터사이언스 과제-발표  
+- [R-based Coursework](https://github.com/Seo-A-Nam/kau_data_science)
+
+## ☕ Java Basics | 자바 기초  
+- [Java Assignments](https://github.com/Seo-A-Nam/school-JAVA)
 
