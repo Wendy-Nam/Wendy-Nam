@@ -1,6 +1,9 @@
 # Previous Account: `Seo-A-Nam`  
 [![GitHub: Seo-A-Nam](https://img.shields.io/badge/GitHub-Seo--A--Nam-181717?logo=github&style=flat-square)](https://github.com/Seo-A-Nam)
 
+> 🔸 The `Seo-A-Nam` profile was actively used to reorganize and present my academic, practical, and self-study work.  
+>  이전 Seo-A-Nam 계정은 학습, 실습, 연구 프로젝트 정리를 위해 주로 사용되었습니다.
+  
 ## 🔬 Network Research Internship | 네트워크 연구 인턴십  
 **POSTECH MCNL Lab (Source Private)**  
 - Hybrid P2P protocol optimization (Go)  
@@ -43,12 +46,3 @@
 ### 🧠 Algorithm Practice | 알고리즘  
 - [LeetCode Solutions (C++)](https://github.com/Seo-A-Nam/Study_pair/tree/main/senam)
 
----
-
-## 📝 Notes
-
-- 🔸 The `Seo-A-Nam` profile was actively used to reorganize and present my academic, practical, and self-study work.  
-  이전 Seo-A-Nam 계정은 학습, 실습, 연구 프로젝트 정리를 위해 주로 사용되었습니다.
-
-- 🔸 Repositories from my previous GitHub account are being **summarized here for consistency**.  
-  과거 계정의 작업물은 통합 정리되어 여기에 기록됩니다.
