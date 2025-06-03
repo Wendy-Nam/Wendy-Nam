@@ -1,8 +1,6 @@
 # 📁 GitHub Account Role Map | 깃허브 계정 용도 정리
 
-# KR description
-
-### 🟦 `Wendy-Nam`  
+## 🟦 `Wendy-Nam` (Active)
 > 📆 **2022 ~ 현재** | 주요 활동 계정  
 > 🔧 오픈소스 도구 개발, 협업 프로젝트, 게임잼 참가 중심
 
@@ -14,7 +12,7 @@
 
 ---
 
-### 🟪 `Seo-A-Nam`  
+## 🟪 `Seo-A-Nam` (Archived)
 > 📆 **2019 ~ 2022** | 학부 중심 계정  
 > 🧑‍💻 학업용 프로젝트, 시스템 프로그래밍 및 초기 실습 기록
 
@@ -24,21 +22,3 @@
 
 🔗 [레거시 저장소 보기 →](https://github.com/Seo-A-Nam)
 
-
----
-
-## EN description
-
-### 🟦 `Wendy-Nam`  
-> 📆 **2022 ~ Present** | Main active account  
-> 🔧 OSS tools, collaborations, and game jam projects
-
-🔗 [View Active Work →](https://github.com/Wendy-Nam)
-
----
-
-### 🟪 `Seo-A-Nam`  
-> 📆 **2019 ~ 2022** | Academic-focused archive  
-> 🧑‍💻 Coursework, systems programming, and early experiments
-
-🔗 [View Legacy Repos →](https://github.com/Seo-A-Nam)
