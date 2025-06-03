@@ -5,20 +5,23 @@
 >  이전 Seo-A-Nam 계정은 학습, 실습, 연구 프로젝트 정리를 위해 주로 사용되었습니다.
   
 ## 🔬 Network Research Internship | 네트워크 연구 인턴십  
-**POSTECH MCNL Lab (Source Private)**  
-- Hybrid P2P protocol optimization (Go)  
+
+### **POSTECH MCNL Lab (Source Private)**  
+
+#### 🔗 [Project Details](https://educated-tarsier-f16.notion.site/POSTECH-MCNL-99c198c1391b45aaabb1425aa7a82daa?source=copy_link)
+
+- Hybrid P2P protocol algorithm implementation (Go)
 - gRPC & Protobuf serialization  
 - Automated simulation & visualization (Python, Docker, Shell)  
 - 특허 및 NDA로 소스 비공개
 
 
 ## 🎓 42Seoul Program | 42서울 교육과정  
+
+#### 🔗 [Project Details](https://educated-tarsier-f16.notion.site/42Seoul-6f6e2c118e0349ceb6388f675d8bd09b?source=copy_link)
+
 - [GitHub Repo](https://github.com/Seo-A-Nam/42Seoul)  
 - Mini game (C): [so_long](https://github.com/Seo-A-Nam/42_so_long)  
-- 블로그:  
-  - [Tistory (KR)](https://nsa901.tistory.com/category/IT/42Seoul)  
-  - [Notion (KR)](https://educated-tarsier-f16.notion.site/42Seoul-6f6e2c118e0349ceb6388f675d8bd09b?pvs=4)
-
 
 ## 📚 CS Notes | 전공 이론 정리  
 - [Notion Summary (KR)](https://educated-tarsier-f16.notion.site/c7ee525768c7470a8f3117cb93a8bda6?pvs=4)  
