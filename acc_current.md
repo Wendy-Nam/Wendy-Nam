@@ -8,16 +8,11 @@
 ### 🎮 Ren’Py Game Tools & Contributions  
 - [View Tools & Projects on GitHub](https://github.com/Wendy-Nam/MyRenPyTools)
 - [Portfolio (KR)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)
-- Custom helper modules and UI scripts for the Ren’Py visual novel engine  
+- Custom helper modules (Python) and UI scripts for the Ren’Py visual novel engine  
 - Openly shared on itch.io (700+ downloads)  
 - Contributed to community-based and international VN projects
 
 > Ren’Py 기반 비주얼 노벨용 커스텀 도구를 개발하고, 오픈소스 형태로 배포한 기록입니다.
-
-#### 📚 Participated Visual Novel Projects
-> *Full project list available [here](https://github.com/Wendy-Nam/MyRenPyTools#-visual-novel-projects)*
-
-> 위 게임들은 Ren'Py 기반으로 진행된 국제 게임잼/커뮤니티 프로젝트로, PM·트러블슈팅·코드 기여 및 리뷰 등 다양한 형태로 참여했습니다.
 
 ---
 
@@ -150,6 +145,14 @@
 - [GitHub Repo](https://github.com/AzureFarming2025/IoT)  
 - ESP32 (MicroPython) 펌웨어  
 - Wokwi 기반 시뮬레이션 + Azure IoT Hub 연동
+
+---
+
+
+## 📚 Participated Visual Novel Projects
+> *Full project list available [here](https://github.com/Wendy-Nam/MyRenPyTools#-visual-novel-projects)*
+
+> 위 게임들은 Ren'Py 기반으로 진행된 국제 게임잼/커뮤니티 프로젝트로, PM·트러블슈팅·코드 기여 및 리뷰 등 다양한 형태로 참여했습니다.
 
 ---
 
