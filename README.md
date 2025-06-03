@@ -30,15 +30,11 @@
 
 ---
 
-### 🧰 Active Projects (Current)
-Hands-on tools and ongoing development work
+### 🧰 Current & Archived Projects  
+Hands-on tools, experiments, and past academic work  
 
-[🔗 View current projects on GitHub (Wendy-Nam)](https://github.com/Wendy-Nam/Wendy-Nam/blob/main/acc_current.md)
-
-### 📚 Archive / Academic Work (Past)
-Past studies in system programming, algorithms, and academic projects
-
-[🔗 View archived work on GitHub (Seo-A-Nam)](https://github.com/Wendy-Nam/Wendy-Nam/blob/main/acc_prev.md)
+- [Current (Wendy-Nam)](https://github.com/Wendy-Nam/Wendy-Nam/blob/main/acc_current.md)  
+- [Archive (Seo-A-Nam)](https://github.com/Wendy-Nam/Wendy-Nam/blob/main/acc_prev.md)
 
 ---
 
