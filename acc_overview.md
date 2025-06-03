@@ -1,19 +1,42 @@
-# 🌐 Dev Portfolio Summary | 개발 활동 포트폴리오 정리
+# 📁 GitHub Account Role Map | 깃허브 계정 용도 정리
 
-## Account Overview | 계정 개요
+# KR description
 
-### ✅ Current Account (현재 계정): `Wendy-Nam`
+### 🟦 `Wendy-Nam`  
+> 📆 **2022 ~ 현재** | 주요 활동 계정  
+> 🔧 오픈소스 도구 개발, 협업 프로젝트, 게임잼 참가 중심
 
-Organizing and updating key project/study repositories.  
-현재 주요 프로젝트와 학습 기록을 정리하고 있습니다.
+- Ren'Py 기반 플러그인 및 툴 개발  
+- 글로벌 커뮤니티 배포 & 사용자 피드백 반영  
+- 현재 활동 및 포트폴리오 정리용 메인 계정  
 
-### 📂 Previous Account (이전 계정): `Seo-A-Nam`
-> Legacy repositories used for coursework and early learning (C, Java, Python, algorithms, etc.).  
-> 학부 과제 및 초기 실습용 저장소들이 보관된 계정입니다.
+🔗 [최근 활동 보기 →](https://github.com/Wendy-Nam)
 
-🔁 This README summarizes key work from that previous account into this one.  
-🔁 이 문서는 **과거 계정 활동을 요약해 현재 계정으로 통합 정리한 버전**입니다.
+### 🟪 `Seo-A-Nam`  
+> 📆 **2019 ~ 2022** | 학부 중심 계정  
+> 🧑‍💻 학업용 프로젝트, 시스템 프로그래밍 및 초기 실습 기록
 
-[![GitHub: Seo-A-Nam](https://img.shields.io/badge/GitHub-Seo--A--Nam-181717?logo=github&style=flat-square)](https://github.com/Seo-A-Nam)
+- C, Java, Python 기반 과제 및 알고리즘 실습  
+- 리눅스, 자료구조, 네트워크 등 전공 과목 프로젝트  
+- 이후 `Wendy-Nam` 계정으로 활동 이전  
+
+🔗 [레거시 저장소 보기 →](https://github.com/Seo-A-Nam)
 
 
+---
+
+## EN description
+
+### 🟦 `Wendy-Nam`  
+> 📆 **2022 ~ Present** | Main active account  
+> 🔧 OSS tools, collaborations, and game jam projects
+
+🔗 [View Active Work →](https://github.com/Wendy-Nam)
+
+---
+
+### 🟪 `Seo-A-Nam`  
+> 📆 **2019 ~ 2022** | Academic-focused archive  
+> 🧑‍💻 Coursework, systems programming, and early experiments
+
+🔗 [View Legacy Repos →](https://github.com/Seo-A-Nam)
