@@ -5,6 +5,15 @@
 
 ## 🧪 Open Source Tools | 오픈 소스 활동 
 
+### 🧩 Public Contributions
+
+#### 📹 video-compress (by @pranavp10)
+
+- Added desktop app support (Electron.js) to a Next.js-based web app  
+- In discussion: GitHub Actions setup for automated macOS & Windows release builds  
+- [PR #7 – Add Electron support](https://github.com/pranavp10/video-compress/pull/7)  
+- [Issue #5 – CI/CD workflow & packaging discussion](https://github.com/pranavp10/video-compress/issues/5)
+
 ### 🎮 Ren’Py Game Tools & Contributions  
 
 #### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)
