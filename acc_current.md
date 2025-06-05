@@ -5,6 +5,8 @@
 
 ## 🧪 Open Source Tools | 오픈 소스 활동 
 
+---
+
 ### 🧩 Public Contributions
 
 #### 📹 video-compress (by @pranavp10)
@@ -13,6 +15,13 @@
 - In discussion: GitHub Actions setup for automated macOS & Windows release builds  
 - [PR #7 – Add Electron support](https://github.com/pranavp10/video-compress/pull/7)  
 - [Issue #5 – CI/CD workflow & packaging discussion](https://github.com/pranavp10/video-compress/issues/5)
+
+> Next.js 기반 웹앱에 Electron을 활용한 데스크톱 앱 지원을 직접 구현해 PR로 기여했으며,<br/>
+> 자동 빌드·배포(CI/CD) 워크플로우 논의도 함께 진행 중입니다.
+
+> PR은 승인 의사를 받았지만 아직 병합 전이며, <br/>
+> 관련 이슈와 데모 공유를 통해 지속적으로 기여 내용을 문서화하고 있습니다.
+---
 
 ### 🎮 Ren’Py Game Tools & Contributions  
 
