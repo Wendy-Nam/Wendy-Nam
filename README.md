@@ -75,5 +75,4 @@ Hands-on tools, experiments, and past academic work
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=Wendy-Nam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Wendy-Nam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Wendy-Nam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=Wendy-Nam&theme=dark&hide_border=false)<br/>
