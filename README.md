@@ -1,32 +1,47 @@
-<h1 align="left">👋 Hi, I'm Wendy Nam (Seo-A-Nam)</h1>
+<div align="center">
+  <img alt="Screenshot" style="width:100%; max-width:800px; height:auto; object-fit:cover;" src="https://github.com/user-attachments/assets/8bde4925-a93a-4fd3-9764-529d3c3965c4" />
+</div>
 
-> **`ENTJ`** · Helpful & easygoing
-
+### 🌐 Socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  <a href="mailto:hanzoom2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=san0901&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" title="Discord: san0901 (DM only)" />
-  <a href="https://seo-a-nam.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=fa5c5c&logoColor=000000&labelColor=&style=for-the-badge" height="30" />
+    <a href="https://discordapp.com/users/1078199419058524170" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=san0901&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" title="Discord: san0901 (DM only)" />
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+    <a href="https://seo-a-nam.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=fa5c5c&logoColor=000000&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://youtube.com/@wendynam-f6g" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Demo&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="ko-fi.com/wendynam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+  <a href="https://instagram.com/realkoreanclass0901" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=creator&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
 ---
 
-### 🏷️ Focus Areas
+### 🏷️ Focus
+**Cloud Infra · DevOps · Service Automation · CLI Tools · Testing & QA**  
+**Game Tools (Python & Ren’Py) · Frontend (Web/Mobile)**
 
-- Cloud Infra & DevOps (Azure, GCP, Terraform, Docker, Github CI/CD)
-- Game Tools (Ren'Py, Hobbyist Game Dev)
-- Service Design · System Automation
-- Frontend (React, Native, Storybook)
+- `Cloud Infra` · `DevOps` · `Service Automation` · `CLI Tools`  · `Testing & QA`
+- `Game Tools (Python & Ren’Py)` ·  `Frontend (Web/Mobile)`
 
 ---
 
 ### 🏆 Highlights
 - Open-source Ren'Py tools and visual novel projects - [View All](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)  
-- Microsoft Azure AI Developer Hackathon 2025 – [Design Award](https://devpost.com/software/azurefarming)  
+- Microsoft Azure AI Developer Hackathon ’25 (Design Award) – [Design Award](https://devpost.com/software/azurefarming)  
 
 ---
 
@@ -59,3 +74,8 @@ Hands-on tools, experiments, and past academic work
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=Wendy-Nam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Wendy-Nam&theme=dark&hide_border=false)<br/>
