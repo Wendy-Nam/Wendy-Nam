@@ -31,8 +31,6 @@
 ---
 
 ### 🏷️ Focus
-**Cloud Infra · DevOps · Service Automation · CLI Tools · Testing & QA**  
-**Game Tools (Python & Ren’Py) · Frontend (Web/Mobile)**
 
 - `Cloud Infra` · `DevOps` · `Service Automation` · `CLI Tools`  · `Testing & QA`
 - `Game Tools (Python & Ren’Py)` ·  `Frontend (Web/Mobile)`
@@ -41,7 +39,7 @@
 
 ### 🏆 Highlights
 - Open-source Ren'Py tools and visual novel projects - [View All](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)  
-- Microsoft Azure AI Developer Hackathon ’25 (Design Award) – [Design Award](https://devpost.com/software/azurefarming)  
+- Microsoft Azure AI Developer Hackathon ’25 (Design Award) – [View All](https://devpost.com/software/azurefarming)  
 
 ---
 
