@@ -23,33 +23,18 @@
 > 관련 이슈와 데모 공유를 통해 지속적으로 기여 내용을 문서화하고 있습니다.
 ---
 
-### 🎮 Ren’Py Game Tools & Contributions  
+### 🛠️ Personal Projects
 
-#### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)
-#### 🔗 [GitHub: Tools & Projects](https://github.com/Wendy-Nam/MyRenPyTools)  
+#### 🎮 Ren’Py Game Tools & Contributions  
 
-- Ren’Py용 Python 커스텀 모듈 및 UI 스크립트 개발  
-- itch.io 공개 배포 (700+ 다운로드)  
-- 글로벌 커뮤니티 VN 프로젝트 기여
+- 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/700-1ed9bf46184a80c5b9abdfc765ed9ac1?pvs=4)
+- 🔗 [GitHub: Tools & Projects](https://github.com/Wendy-Nam/MyRenPyTools)  
 
+> Open source Ren’Py tools: 700+ downloads on itch.io, supporting global VN (visual novel) community projects.<br/>
+> Developed custom Python modules and UI scripts for Ren’Py
+
+> Ren’Py용 Python 커스텀 모듈 및 UI 스크립트 개발  
 > Ren’Py 기반 비주얼 노벨용 오픈소스 도구 개발 및 배포 기록입니다.
-
----
-
-## 🤖 Lingo - Discord Translation Bot (2024–2025)
-
-> **Stack:** GCP Compute Engine, Terraform, GitHub Actions, Python, Discord API, OpenAI API
-
-#### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/GCP-Discord-Bot-1f79bf46184a8021a6b0d52d1aee06f3?pvs=4)
-#### 🔗 [GitHub](https://github.com/Wendy-Nam/MyDiscordBot)  
-
-- **V1 (2024년 9월):** 글로벌 팀 프로젝트 언어 장벽 해소  
-- **V2 (2025년 5월):**  
-  - Discord 앱 슬래시 커맨드로 UI 개선  
-  - langdetect 활용 언어 감지 정확도 향상  
-  - Terraform & GitHub Actions 기반 GCP 인프라 자동화
-
-> 실시간 AI 기반 한영 디스코드 번역 봇, 글로벌 협업 환경 지원 프로젝트입니다.
 
 ---
 
@@ -76,6 +61,39 @@
   - Real-time device simulation & event-driven messaging
 
 > Azure 기반 스마트팜으로, 인프라 및 클라우드-디바이스 연동을 주도해 수상했습니다.
+
+---
+
+## 🤖 Lingo - Discord Translation Bot (2024–2025)
+
+> **Stack:** GCP Compute Engine, Terraform, GitHub Actions, Python, Discord API, OpenAI API
+
+#### 🔗 [Project Details (한국어)](https://educated-tarsier-f16.notion.site/GCP-Discord-Bot-1f79bf46184a8021a6b0d52d1aee06f3?pvs=4)
+#### 🔗 [GitHub](https://github.com/Wendy-Nam/MyDiscordBot)  
+
+- **V1 (2024년 9월):** 글로벌 팀 프로젝트 언어 장벽 해소  
+- **V2 (2025년 5월):**  
+  - Discord 앱 슬래시 커맨드로 UI 개선  
+  - langdetect 활용 언어 감지 정확도 향상  
+  - Terraform & GitHub Actions 기반 GCP 인프라 자동화
+
+> 실시간 AI 기반 한영 디스코드 번역 봇, 글로벌 협업 환경 지원 프로젝트입니다.
+
+---
+
+## 🌍 auto-translate-html-widget
+
+> Multilingual widget for static sites (HTML, GitHub Pages, Tistory, etc.)
+
+- 🔗 [GitHub](https://github.com/Wendy-Nam/auto-translate-html-widget) | [Demo](https://wendy-nam.github.io/auto-translate-html-widget/) | [YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+- 📘 [README (EN)](https://github.com/Wendy-Nam/auto-translate-html-widget/blob/main/README.en.md) | [README (KO)](https://github.com/Wendy-Nam/auto-translate-html-widget/blob/main/README.ko.md)
+
+- Google Translate API, flag switcher, language toggle by URL or sidebar
+- CI/CD with `GitHub Pages` for instant demo and deployment
+- MIT license, live demo, WIP
+
+> GitHub Pages로 자동 배포 및 테스트.  
+> 정적 사이트 어디서나 바로 적용 가능한 다국어 위젯입니다.
 
 ---
 
