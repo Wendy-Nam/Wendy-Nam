@@ -39,10 +39,10 @@
 
 ### 🏆 Highlights
 
-**🎮 Game Development** Open-source Ren'Py Tools  
+**🎮 Game Development**: Open-source Ren'Py Tools  
 → [View on GitHub](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)
 
-**🥇 AI Innovation** Azure Hackathon Design Award  
+**🥇 Hackathon Winner**: Microsoft Azure AI developer (Design Award)  
 → [See Project](https://devpost.com/software/azurefarming)
 
 ---
