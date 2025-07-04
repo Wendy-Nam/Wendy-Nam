@@ -5,9 +5,6 @@
 ### 🌐 Socials
 
 <div align="left">
-  <a href="mailto:hanzoom2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
   <a href="https://www.linkedin.com/in/seo-a-nam-024962228" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
@@ -94,12 +91,12 @@ Hands-on tools, experiments, and past academic work
 <div align="center" style="display: flex; width: 100%; gap: 4px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Wendy-Nam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
-    style="width: 45%;" 
+    style="height: 0.6 vh;" 
     alt="GitHub stats" 
   />
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Wendy-Nam&theme=dark&hide_border=false" 
-    style="width: 49%;" 
+    style="height: 0.6 vh;" 
     alt="Streak stats" 
   />
 </div>
