@@ -8,11 +8,11 @@
   <a href="mailto:hanzoom2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-    <a href="https://discordapp.com/users/1078199419058524170" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=san0901&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" title="Discord: san0901 (DM only)" />
-  </a>
   <a href="https://www.linkedin.com/in/seo-a-nam-024962228" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discordapp.com/users/1078199419058524170" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=san0901&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" title="Discord: san0901 (DM only)" />
   </a>
     <a href="https://seo-a-nam.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=fa5c5c&logoColor=000000&labelColor=&style=for-the-badge" height="35" />
