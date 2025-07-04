@@ -40,10 +40,10 @@
 ### 🏆 Highlights
 
 **🎮 Game Development** Open-source Ren'Py Tools  
-↳ [View on GitHub](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)
+→ [View on GitHub](https://github.com/Wendy-Nam/MyRenPyTools/blob/main/README.md)
 
 **🥇 AI Innovation** Azure Hackathon Design Award  
-↳ [See Project](https://devpost.com/software/azurefarming)
+→ [See Project](https://devpost.com/software/azurefarming)
 
 ---
 
@@ -74,7 +74,7 @@ Hands-on tools, experiments, and past academic work
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=go" height="35" alt="go logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" height="35" alt="terraform logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="githubactions logo"  />
   <img width="10" />
@@ -88,6 +88,7 @@ Hands-on tools, experiments, and past academic work
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
 </div>
+
 ---
 
 <div align="center" style="display: flex; width: 100%; gap: 4px;">
