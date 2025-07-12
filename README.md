@@ -17,12 +17,6 @@
   <a href="https://youtube.com/@wendynam-f6g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Demo&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="youtube logo"  />
   </a>
-  <a href="https://ko-fi.com/wendynam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="ko-fi logo"  />
-  </a>
-  <a href="https://instagram.com/realkoreanclass0901" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=creator&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
-  </a>
 </div>
 
 ---
