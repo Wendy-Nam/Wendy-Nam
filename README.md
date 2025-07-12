@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Screenshot" style="width:100%; max-width:800px; height:auto; object-fit:cover;" src="https://github.com/user-attachments/assets/8bde4925-a93a-4fd3-9764-529d3c3965c4" />
+  <img alt="Screenshot" style="width:100%; max-width:800px; height:auto; object-fit:cover;" src="./assets/banner.png" />
 </div>
 
 ### 📥 Contact
