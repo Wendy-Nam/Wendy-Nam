@@ -2,9 +2,9 @@
 
 [![GitHub: Wendy-Nam](https://img.shields.io/badge/GitHub-Wendy--Nam-181717?logo=github&style=flat-square)](https://github.com/Wendy-Nam)
 
-## Open Source Contributions
-
 ---
+
+## Open Source Contributions
 
 ### Public Contributions
 
@@ -17,7 +17,6 @@
 
 *Implemented desktop app support for a Next.js-based web application using Electron.js. Currently discussing automated build and deployment workflows. PR has received approval but is pending merge.*
 
----
 
 ### Personal Open Source Projects
 
@@ -30,9 +29,7 @@
 
 ---
 
-## Award-Winning Projects
-
-### AzureFarming (Azure AI Developer Hackathon 2025)
+## AzureFarming (Azure AI Developer Hackathon 2025)
 
 > **Stack**: Azure IoT Hub, Terraform, Node.js, MicroPython, ESP32, React
 
@@ -40,7 +37,7 @@
 - 🔗 [Public Documentation Collection (by Seo-A Nam)](https://educated-tarsier-f16.notion.site/2025-AzureFarming-Docs-f77670ffc2464d10aa95ff5b7f8ec702)
 - 🔗 [Project Details](https://educated-tarsier-f16.notion.site/2025-AzureFarming-Microsoft-Hackathon-2139bf46184a80f087dbe97d308aaffa?pvs=74)
 
-#### GitHub Repositories
+### GitHub Repositories
 
 | Component        | Link                                                        |
 |------------------|-------------------------------------------------------------|
@@ -58,7 +55,7 @@
 
 ---
 
-### Lingo - Discord Translation Bot (2024–2025)
+## Lingo - Discord Translation Bot (2024–2025)
 
 > **Stack:** GCP Compute Engine, Terraform, GitHub Actions, Python, Discord API, OpenAI API
 
@@ -73,7 +70,7 @@
 
 ---
 
-### 🌐 auto-translate-html-widget
+## auto-translate-html-widget
 
 > **Lightweight multilingual widget for static sites**
 
@@ -82,7 +79,7 @@
 
 **Features:**
 - Google Translate API integration with flag-based language switcher
-- URL-based and sidebar language toggle options
+- URL-based and language toggle options
 - Automated CI/CD deployment via GitHub Pages
 - MIT licensed, ready for production use
 
@@ -90,24 +87,24 @@
 
 ---
 
-### 🐾 SMART PET (Industry-Academia Collaboration, 2024)  
+## SMART PET (Industry-Academia Collaboration, 2024)  
 
 > **Stack:** Fastlane, Firebase, Vercel, Storybook, Jest, React Native, Tailwind CSS
 
-#### 🔗 Live Demonstrations
+### 🔗 Live Demonstrations
 
 | Component        | Link                                                      |
 |------------------|-----------------------------------------------------------|
-| Storybook Docs   | [� Component Library](https://wendy-jmcomponents-rn.vercel.app/) |
-| Jest Test Visual | [🧪 API Testing Dashboard](https://jest-ai-cateye.vercel.app) |
+| Storybook Docs   | [Component Library](https://wendy-jmcomponents-rn.vercel.app/) |
+| Jest Test Visual | [API Testing Dashboard](https://jest-ai-cateye.vercel.app) |
 
-#### 🔗 Source Code
+### 🔗 Source Code
 
 | Component           | Link                                                      |
 |--------------------|-----------------------------------------------------------|
-| CI/CD Documentation | [� Main Repository](https://github.com/KAU-SMART-PETS/Capstone_FE) |
-| Jest API Testing    | [� Test Suite](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test) |
-| Storybook Components| [🎨 UI Components](https://github.com/Wendy-Nam/addon-react-native-web) |
+| CI/CD Documentation | [Main Repository](https://github.com/KAU-SMART-PETS/Capstone_FE/blob/main/README.md) |
+| Jest API Testing    | [Test Suite](https://github.com/Wendy-Nam/jest-iris-diagnosis-api-test) |
+| Storybook Components| [UI Components](https://github.com/Wendy-Nam/addon-react-native-web) |
 
 **Project Achievements:**
 - **Award:** Grand Prize – Industry-Academia Collaboration Presentation
@@ -116,41 +113,39 @@
 
 ---
 
-## 🌏 Major Projects
-
-### 🌍 HANZOOM | Community Platform for Foreigners in Korea
+## HANZOOM | Community Platform for Foreigners in Korea
 
 > **Mission:** Bridging communication gaps for international residents in Korea
 
-#### 🔗 [Comprehensive Project Documentation](https://educated-tarsier-f16.notion.site/HANZOOM-Korea-Pre-Startup-2139bf46184a8044b345c9ab3d0d8520)
+### 🔗 [Comprehensive Project Documentation](https://educated-tarsier-f16.notion.site/HANZOOM-Korea-Pre-Startup-2139bf46184a8044b345c9ab3d0d8520)
 
-#### Project Evolution
+### Project Evolution
 
 | Version | Technology Stack            | Repository                                                  | Milestone                    |
 |---------|----------------------------|-------------------------------------------------------------|------------------------------|
-| **V1**  | React Native + Firebase    | [📱 Mobile App](https://github.com/Wendy-Nam/react-practice/tree/main/RN/HANZ8M) | Startup pitch & documentation |
-| **V2**  | HTML/CSS/JS + PHP          | [🌐 Web Platform](https://github.com/Wendy-Nam/HANZOOM-2023-web) | Academic semester project |
-| **V3**  | React + Tailwind CSS       | [⚡ Modern Frontend](https://github.com/kaugitkau/KauGitFront) | UI/UX redesign, contest qualification |
+| **V1**  | React Native + Firebase    | [Mobile App](https://github.com/Wendy-Nam/react-practice/tree/main/RN/HANZ8M) | Startup pitch & documentation |
+| **V2**  | HTML/CSS/JS + PHP          | [Web Platform](https://github.com/Wendy-Nam/HANZOOM-2023-web) | Academic semester project |
+| **V3**  | React + Tailwind CSS       | [Modern Frontend](https://github.com/kaugitkau/KauGitFront) | UI/UX redesign, contest qualification |
 
 **Key Features:** Multilingual support, public data integration, responsive design, community-driven content
 
 ---
 
-## 🤖 IoT & Embedded Systems
+## IoT & Embedded Systems
 
-### 🦕 Dancing Dino (Raspberry Pi Rhythm Game)  
+### Dancing Dino (Raspberry Pi Rhythm Game)  
 - 🔗 [GitHub Repository](https://github.com/Wendy-Nam/DancingDino)  
 - **Course:** Embedded SW Final Project (KAU, 2023)  
 - **Hardware:** Raspberry Pi 4 + Adafruit TFT Bonnet  
 - **Concept:** Stage-based rhythm game featuring an animated dancing dinosaur character
 
-### 👶 Baby Crying Detection System (AWS IoT)
+### Baby Crying Detection System (AWS IoT)
 - 🔗 [GitHub Repository](https://github.com/Wendy-Nam/IoT-BabyCryDetection)  
 - **Hardware:** Arduino ESP32 + Sound Sensor  
 - **Architecture:** Real-time pattern detection → AWS IoT Core  
 - **Status:** ⚠️ **Proof of Concept** - Environmental sensitivity requires AI-based classification for production reliability
 
-### 🌱 Azure IoT Infrastructure (AzureFarming Project)
+### Azure IoT Infrastructure (AzureFarming Project)
 
 #### Infrastructure Automation
 - 🔗 [Deployment Scripts](https://github.com/AzureFarming2025/azure-iot-deployment)  
@@ -162,16 +157,15 @@
 
 ---
 
+## Visual Novel Community Contributions
 
-## 🎮 Game Development & Database Projects
-
-### 📚 Visual Novel Community Contributions
-
-> 🔗 *[Complete project portfolio](https://github.com/Wendy-Nam/MyRenPyTools#-visual-novel-projects)*
+> *[Complete project portfolio](https://github.com/Wendy-Nam/MyRenPyTools#-visual-novel-projects)*
 
 *Contributed to international game jam and community projects using Ren'Py engine. Roles included project management, technical troubleshooting, code contributions, and peer review.*
 
-### 📋 Employee Information System (Database Project)
+---
+
+## Academic Project - Employee Information System (Database)
 - 🔗 [GitHub Repository](https://github.com/Wendy-Nam/JDBC_DB_Application)  
 - **Technology:** Java + JDBC + MySQL CLI Application  
 - **Context:** KAU Database Management course team project  
