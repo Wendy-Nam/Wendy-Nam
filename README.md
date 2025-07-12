@@ -2,17 +2,38 @@
   <img alt="Screenshot" style="width:100%; max-width:800px; height:auto; object-fit:cover;" src="https://github.com/user-attachments/assets/8bde4925-a93a-4fd3-9764-529d3c3965c4" />
 </div>
 
-### 🌐 Socials
+### 📥 Contact
 
 <div align="left">
+  <a href="mailto:hanzoom2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&labelColor=&style=for-the-badge" height="45" />
+  </a>
   <a href="https://www.linkedin.com/in/seo-a-nam-024962228" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" />
   </a>
   <a href="https://discordapp.com/users/1078199419058524170" target="_blank">
     <img src="https://img.shields.io/static/v1?message=san0901&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" title="Discord: san0901 (DM only)" />
   </a>
+</div>
+
+---
+
+### 👤 Profiles
+<div align="left">
+  <a href="https://bit.ly/seoa-nam-cv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=reactiveresume&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="youtube logo"  />
+  </a>
+  <a href="https://medium.com/@hanzoom2000" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Article&logo=Medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="45" />
+  </a>
+  <a href="https://bit.ly/seoa-nam-portfolio-en" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Projects&logo=Notion&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="45" />
+  </a>
+  <a href="https://bit.ly/wendy-tistory-tech-blog" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Blog&logo=Tistory&label=&color=eb531f&logoColor=white&labelColor=&style=for-the-badge" height="45" />
+  </a>
   <a href="https://seo-a-nam.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=fa5c5c&logoColor=000000&labelColor=&style=for-the-badge" height="45" />
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch.io&label=&color=fa5c5c&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="45" />
   </a>
   <a href="https://youtube.com/@wendynam-f6g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Demo&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="youtube logo"  />
