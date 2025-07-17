@@ -29,7 +29,7 @@
   <a href="https://bit.ly/seoa-nam-portfolio-en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Projects&logo=Notion&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="45" />
   </a>
-  <a href="https://bit.ly/wendy-tistory-tech-blog" target="_blank">
+  <a href="https://nsa901.tistory.com?lang=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=Tistory&label=&color=eb531f&logoColor=white&labelColor=&style=for-the-badge" height="45" />
   </a>
   <a href="https://seo-a-nam.itch.io/" target="_blank">
