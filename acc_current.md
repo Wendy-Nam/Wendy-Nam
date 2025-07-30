@@ -113,19 +113,25 @@
 
 ---
 
-## HANZOOM | Community Platform for Foreigners in Korea
+## HANZOOM | Community Platform for International Residents
 
-> **Mission:** Bridging communication gaps for international residents in Korea
+> **Mission:** Technology-driven solutions for international community integration in Korea
 
-### 🔗 [Comprehensive Project Documentation](https://educated-tarsier-f16.notion.site/HANZOOM-Korea-Pre-Startup-2139bf46184a8044b345c9ab3d0d8520)
+### 🔗 [Full Documentation](https://educated-tarsier-f16.notion.site/HANZOOM-Korea-Pre-Startup-2139bf46184a8044b345c9ab3d0d8520)
 
-### Project Evolution
+### Development Timeline
 
-| Version | Technology Stack            | Repository                                                  | Milestone                    |
-|---------|----------------------------|-------------------------------------------------------------|------------------------------|
-| **V1**  | React Native + Firebase    | [Mobile App](https://github.com/Wendy-Nam/react-practice/tree/main/RN/HANZ8M) | Startup pitch & documentation |
-| **V2**  | HTML/CSS/JS + PHP          | [Web Platform](https://github.com/Wendy-Nam/HANZOOM-2023-web) | Academic semester project |
-| **V3**  | React + Tailwind CSS       | [Modern Frontend](https://github.com/kaugitkau/KauGitFront) | UI/UX redesign, contest qualification |
+| Version | Stack | Achievement |
+|---------|-------|-------------|
+| **V1** | React Native + Firebase | Government program validation |
+| **V2** | HTML/CSS/JS + PHP | University partnership presentation |
+| **V3** | React + Tailwind | Competition preliminary selection |
+
+### Github Repository
+
+- Phase 1 : [Mobile App](https://github.com/Wendy-Nam/react-practice/tree/main/RN/HANZ8M)
+- Phase 2 : [Web Platform](https://github.com/Wendy-Nam/HANZOOM-2023-web)
+- Phase 3 : [Modern Frontend](https://github.com/kaugitkau/KauGitFront)
 
 **Key Features:** Multilingual support, public data integration, responsive design, community-driven content
 
