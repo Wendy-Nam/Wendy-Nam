@@ -20,9 +20,6 @@
 
 ### 👤 Profiles
 <div align="left">
-  <a href="https://bit.ly/seoa-nam-cv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=reactiveresume&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="youtube logo"  />
-  </a>
   <a href="https://medium.com/@hanzoom2000" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Article&logo=Medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="45" />
   </a>
